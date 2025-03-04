@@ -6,8 +6,8 @@ import {
   Outlet,
 } from "react-router-dom";
 import Home1 from "./components/Pages/Home/Home1/Home1";
-import Navbar from "./components/Main/Navbar.jsx";``
-import Footer from "./components/Main/Footer.jsx";
+import Navbar from "./components/common/Navbar";
+import Footer from "./components/common/Footer";
 // import Projects from './page/Projects.jsx';
 import ContactUs from "./components/Pages/Contact/ContactUs.jsx";
 
